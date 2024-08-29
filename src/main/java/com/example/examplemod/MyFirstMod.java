@@ -25,8 +25,6 @@ public class MyFirstMod
     public static final Logger LOGGER = LogUtils.getLogger();
 
 
-
-
     public MyFirstMod()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
